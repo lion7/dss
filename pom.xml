@@ -61,7 +61,7 @@
 
 		<awaitility.version>4.1.1</awaitility.version>
 		<mockito.version>3.12.4</mockito.version>
-		<h2database.version>1.4.200</h2database.version>
+		<h2database.version>2.2.220</h2database.version>
 		<jackson.version>2.13.0</jackson.version>
 		<fop-core.version>2.6</fop-core.version>
 
